@@ -1,8 +1,11 @@
 {
-    "id": "451cacfa-e26f-4194-a7fe-5048003c3aaa",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "timer",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "resourceType": "GMScript",
+  "resourceVersion": "1.0",
+  "name": "timer",
+  "isCompatibility": false,
+  "isDnD": false,
+  "parent": {
+    "name": "Scripts",
+    "path": "folders/Scripts.yy",
+  },
 }

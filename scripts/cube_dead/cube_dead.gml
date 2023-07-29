@@ -1,0 +1,5 @@
+function cube_dead() {
+
+
+
+}
